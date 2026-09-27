@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+  "passwordHash": "ad6af5527494d7136ec2cb9692e78a71689353b8e7f07a6660d21e659e915a5c",
   "catalogKey": {
     "version": 1,
     "kdf": "PBKDF2-HMAC-SHA256",
     "iterations": 600000,
-    "salt": "7n4uT8e+W+l9FDMPpuNX+w==",
-    "nonce": "OuwWuzYmNjEO4LUg",
-    "ciphertext": "7BF0SwDKqbVoXexoXlqc9uAddysDc9lXWZ4jf5svpYRaxpsybhyMLnz9WgqDMcYC"
+    "salt": "MAB2m2dc5ROnKir1rHqIAQ==",
+    "nonce": "RR++OuRZqvTOQMHV",
+    "ciphertext": "x8Ebme13vONco+WQFfQjAA8M8MAt1oiSRLGtixL1Bhsqf3/ig5pU97OmpUTheOBb"
   }
 }
