@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "passwordHash": "795b904169299f2c9b3751228b94aa2a382481961b396981da01346bcf5f131a",
+  "catalogKey": {
+    "version": 1,
+    "kdf": "PBKDF2-HMAC-SHA256",
+    "iterations": 600000,
+    "salt": "Cr5k0oLbXmCGDij8lOMB2A==",
+    "nonce": "mz14cqRlkAcjpwnW",
+    "ciphertext": "RjS3zt7SlynOKXIsKs4CkMfop3G1hXmUEhfyd2C5XjhdaNXeNIF79HC7/hTqNMXY"
+  }
+}
