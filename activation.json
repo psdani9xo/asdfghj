@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "passwordHash": "ad6af5527494d7136ec2cb9692e78a71689353b8e7f07a6660d21e659e915a5c",
   "catalogKey": {
     "version": 1,
