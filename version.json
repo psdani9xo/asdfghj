@@ -1,20 +1,20 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-17/PiratApp-1.0.16-17-universal.apk",
-  "sha256": "6459e601f7cd2be825e53415861d3332a0842fa5153851cd3466f9b63738c780",
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-18/PiratApp-1.0.17-18-universal.apk",
+  "sha256": "69cbc6b1bc248dc50a375c70a819f386351aa6340b3e6e4147ca110aad0f5563",
   "apks": {
     "armeabi-v7a": {
-      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-17/PiratApp-1.0.16-17-armeabi-v7a.apk",
-      "sha256": "821f3d9fb508aa858aca1a12ed37a764726fb9e02dbcb6a70164824b89e38a8b"
+      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-18/PiratApp-1.0.17-18-armeabi-v7a.apk",
+      "sha256": "85dedf6b4d99181ad0a16cb7faba6305395a8e582a413c2bebe21b1222abbaa2"
     },
     "arm64-v8a": {
-      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-17/PiratApp-1.0.16-17-arm64-v8a.apk",
-      "sha256": "1d88142ca4e367a401dd9ba3c6da7eaa2aa631d597120d799e7c90bcbd4a509a"
+      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-18/PiratApp-1.0.17-18-arm64-v8a.apk",
+      "sha256": "31965bb8a04e7bb66bbbc0c06aed2d45208b2826790a13e9e7be910295434b67"
     },
     "x86_64": {
-      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-17/PiratApp-1.0.16-17-x86_64.apk",
-      "sha256": "299387142a437c705640caeb1679527afabbaf48975b7c053dd94dc9a0c5ff44"
+      "apkUrl": "https://github.com/psdani9xo/asdfghj/releases/download/app-18/PiratApp-1.0.17-18-x86_64.apk",
+      "sha256": "fdd13e4c663b517580601f6603883673eae7338e1567105913a511e905f1455a"
     }
   }
 }
